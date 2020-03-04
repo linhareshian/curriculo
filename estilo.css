@@ -1,4 +1,21 @@
-body{
-  background-color:yellowgreen;
-}
 
+body{
+  background:rgb(255, 203, 106);
+  border: double 10px;
+  border-color: black ;
+
+  
+}
+h2{
+background-color: black;
+
+}
+h3{
+  background-color: black;
+}
+h4{
+  background-color: black;
+}
+h1{
+  background-color: black;
+}
